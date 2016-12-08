@@ -1,7 +1,7 @@
 var library =
 { "music": {
         "eighties":{
-          "Michael_Jackson":[
+          "Micahael_Jackson":[
             {
               "album": "Thriller",
               "song": "Beat it",
